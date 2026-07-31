@@ -1,0 +1,2 @@
+I studied the serial DCE/DTE connection between the two routers and reviewed the static routing method. I also helped plan the next steps, including configuring the IP addresses and routers and testing the connection using ping and simulation mode.
+One problem we faced was choosing the correct cable, especially for the Serial DCE/DTE connection between the routers. We solved it by testing different cables and checking the DCE/DTE connection and clocking settings.
